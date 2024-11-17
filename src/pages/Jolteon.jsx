@@ -3,7 +3,7 @@ import React from "react";
 const Jolteon = () => {
   return (
     <div className="min-h-screen bg-yellow-50 flex flex-col items-center justify-center py-8">
-      <h1 className="text-4xl font-bold text-yellow-600">Jolteon: Renewable Energy</h1>
+      <h1 className="text-4xl font-dogica text-yellow-600">Jolteon: Renewable Energy</h1>
       <p className="mt-4 text-lg text-gray-700 px-4 max-w-3xl text-center">
         Renewable energy is the key to a sustainable future. Harnessing natural resources like the
         sun, wind, and water helps reduce carbon emissions and combat climate change. Embracing

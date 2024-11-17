@@ -3,7 +3,7 @@ import React from "react";
 const Flareon = () => {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center py-8">
-      <h1 className="text-4xl font-bold text-red-500">Flareon: Wildfires Awareness</h1>
+      <h1 className="text-4xl font-dogica text-red-500">Flareon: Wildfires Awareness</h1>
       <p className="mt-4 text-lg text-gray-700 px-4 max-w-3xl text-center">
         Wildfires are devastating natural disasters that impact ecosystems, wildlife, and human
         lives. With increasing global temperatures and deforestation, wildfires are becoming
