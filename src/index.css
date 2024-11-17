@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .primary-btn {
+    @apply inline-block bg-primary text-white font-semibold py-2 px-6 rounded-lg 
+    hover:bg-secondary duration-200 shadow-[0px_10px_8px_-7px_#ffd978] 
+    hover:shadow-[0px_10px_8px_-7px_#69a79c]
+  }
+}
+
+@font-face {
+  font-family: "Dogica";
+  src:url("/src/fonts/dogica.ttf")
+
+}
+
+@font-face {
+  font-family: "DogicaBold";
+  src:url("/src/fonts/dogicapixelbold.ttf")
+}
+
+@font-face {
+  font-family: "Stanberry";
+  src:url("/src/fonts/Stanberry.ttf")
+}
+
+@font-face {
+  font-family: "Bandy";
+  src:url("/src/fonts/BandyDEMO-Light.otf")
+}
+
+@font-face {
+  font-family: "BandyBold";
+  src:url("/src/fonts/BandyDEMO-ExtraBold.otf")
+}
+
+@layer utilities{
+  .drop-shadow{
+    filter: drop-shadow(6px 8px 10px rgba(0,0,0,0.5));
+  }
+}
