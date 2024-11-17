@@ -3,7 +3,7 @@ import React from "react";
 const Vaporeon = () => {
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-4xl font-bold text-blue-400 mb-4">
+      <h1 className="text-4xl font-dogica text-blue-400 mb-4">
         Vaporeon & Water Conservation
       </h1>
       <p className="text-gray-700 text-lg mb-6">

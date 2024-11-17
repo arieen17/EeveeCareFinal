@@ -5,7 +5,7 @@ const Leafeon = () => {
     <div className="min-h-screen bg-green-50 flex flex-col items-center justify-center py-8">
       <div className="flex flex-col items-center">
         {/* Leafeon Pixel Art */}
-        <h1 className="text-4xl font-bold text-green-600">
+        <h1 className="text-4xl font-dogica text-green-600">
           Leafeon: Conservation and Biodiversity
         </h1>
       </div>
