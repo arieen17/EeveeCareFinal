@@ -10,6 +10,7 @@ import Flareon from "./pages/Flareon";
 import Jolteon from "./pages/Jolteon";
 import Leafeon from "./pages/Leafeon";
 import Umbreon from "./pages/Umbreon";
+import Espeon from "./pages/Espeon";
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
         <Route path="/umbreon" element={<Umbreon />} />
         <Route path="/sylveon" element={<Sylveon />} />
         <Route path="/vaporeon" element={<Vaporeon />} />
+        <Route path="/espeon" element={<Espeon />} />
       </Routes>
       <Footer />
     </Router>
