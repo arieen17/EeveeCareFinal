@@ -2,7 +2,6 @@ import React from 'react';
 import Intro from "../components/Intro.jsx";
 import Section from "../components/Sections.jsx";
 import Information from "../components/Information.jsx"
-import Footer from "../components/Footer.jsx"
 
 
 const App = () => {
@@ -16,4 +15,4 @@ const App = () => {
   
 }
 
-export default App
+export default App;
