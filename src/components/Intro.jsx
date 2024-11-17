@@ -39,7 +39,7 @@ const Intro = () => {
                     initial="initial"
                     animate="animate"
                     className='mt-3 flex justify-center md:justify-start'>
-                    <button className="primary-btn"> Donate </button>
+                    <button className="font-BandyBold primary-btn text-xl"> Donate HERE </button>
                 </motion.div>
           </div>
         </div>

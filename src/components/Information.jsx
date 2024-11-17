@@ -27,9 +27,9 @@ const About = () => {
           
           className="relative flex flex-col justify-center">
             <div className='text-center space-y-4 lg:max-w-[430px] mx-auto'>
-                <h1 className='text-4xl text-white font-bold !leading-snug z-10'>Currently 560,000 members within program</h1>
+                <h1 className='font-BandyBold text-4xl text-white font-bold !leading-snug z-10'>Currently ONE million members within program</h1>
                 <p className='text-white text-xl'>Want to know more about the purpose and mission of Eevee Care, click the button below!</p>
-                <a href="" className='primary-btn !mt-8 inline-flex items-center gap-2'>
+                <a href="/about" className=' primary-btn font-BandyBold !mt-8 inline-flex items-center gap-2'>
                   Learn More!
                   <MdCatchingPokemon/>
                 </a>
