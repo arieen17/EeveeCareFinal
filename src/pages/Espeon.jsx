@@ -3,7 +3,7 @@ import React from "react";
 const EspeonMentalHealth = () => {
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-4xl font-bold text-purple-500 mb-4">
+      <h1 className="text-4xl font-dogica text-purple-500 mb-4">
         Espeon & Mental Health Awareness
       </h1>
       <p className="text-gray-700 text-lg mb-6">

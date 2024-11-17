@@ -66,7 +66,7 @@ const Evolutions = [
     {
         id: 7,
         title: "Leafeon",
-        link: "/leafon", 
+        link: "/leafeon", 
         icon: <MdCatchingPokemon/>,
         delay:0.8,
         color: "#89D89B",
