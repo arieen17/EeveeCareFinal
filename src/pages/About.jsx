@@ -124,11 +124,11 @@ const AboutEeveeCare = () => {
         </p>
         <ul className="list-disc list-inside text-gray-600 mt-2">
           <li><strong>Espeon</strong>: Mental Health Awareness - Promoting emotional well-being and supporting mental health care initiatives.</li>
-          <li><strong>Vaporeon</strong>: Water Conservation - Educating on the importance of protecting freshwater resources and reducing water waste.</li>
+          <li><strong>Vaporeon</strong>: Water Conservation & Access - Educating on the importance of protecting freshwater resources and reducing water waste.</li>
           <li><strong>Sylveon</strong>: Gender Equality - Advocating for equal rights, opportunities, and respect for all genders.</li>
           <li><strong>Umbreon</strong>: Social Justice - Fighting for equality, fairness, and the eradication of discrimination and injustice.</li>
           <li><strong>Glaceon</strong>: Climate Change - Raising awareness about the climate crisis and encouraging eco-friendly habits.</li>
-          <li><strong>Flareon</strong>: Energy Conservation - Promoting the reduction of energy consumption and the use of renewable resources.</li>
+          <li><strong>Flareon</strong>: Wild Fires - Raising awareness about the causes and dangers surrounding wild fires.</li>
           <li><strong>Leafeon</strong>: Deforestation - Raising awareness about the importance of protecting forests and plant life for biodiversity.</li>
           <li><strong>Jolteon</strong>: Renewable Energy - Advocating for the transition to solar, wind, and other renewable energy sources to reduce carbon emissions.</li>
         </ul>
